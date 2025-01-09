@@ -51,5 +51,5 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 
 
 Acknowledgments
-The dataset was inspired by OpenML or Kaggle competitions (replace with source).
+The dataset was inspired by  Kaggle competitions .
 Thanks to the contributors of Scikit-learn and other Python libraries for making machine learning accessible.
